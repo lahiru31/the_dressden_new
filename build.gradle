@@ -1,6 +1,6 @@
 buildscript {
     ext {
-        androidGradlePlugin = '8.0.0'  // Downgraded for better compatibility
+        androidGradlePlugin = '8.8.0'  // Updated for compatibility with Gradle 8.10.2
         kotlinVersion = '1.9.22'
         googleServicesVersion = '4.4.1'
         firebaseCrashlyticsVersion = '2.9.9'
